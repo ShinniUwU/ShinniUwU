@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinniuwu&show_icons=true&theme=dark&locale=en" alt="shinniuwu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinniuwu&" alt="shinniuwu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinniuwu&theme=dark" alt="shinniuwu" /></p>
 
