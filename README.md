@@ -23,7 +23,7 @@ I'm Hana, a 19-year-old entry-level programmer from Bulgaria who's deeply passio
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/𝖘𝖍𝖎𝖓𝖓𝖎#2806" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/shinni_" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
   <a href="https://www.github.com/ShinniUwU" target="_blank" rel="noreferrer">
