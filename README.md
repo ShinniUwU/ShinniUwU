@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hana or Shinni</h1>
-<h3 align="center">a 19-year-old entry-level programmer from Bulgaria who's deeply passionate about coding and languages. 🌱 I'm constantly experimenting and learning, so please be patient with me as I navigate through the vast world of programming. 🏳️‍⚧️ I'm transgender and strive to create a supportive and inclusive environment for everyone. Let's spread love and positivity! ❤️</h3>
+<h3 align="center">a 19-year-old entry-level programmer from Bulgaria who's deeply passionate about coding and languages. 
+🌱 I'm constantly experimenting and learning, so please be patient with me as I navigate through the vast world of programming. 🏳️‍⚧️ I'm transgender and strive to create a supportive and inclusive environment for everyone. Let's spread love and positivity! ❤️</h3>
 
 - 🌱 I’m currently learning **C++ and Web-Dev + many more**
 
