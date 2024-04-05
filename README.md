@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Shinni
+### Hi there! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/shinnioffical?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.twitter.com/shinnioffical)
+I'm Hana, a 19-year-old entry-level programmer from Bulgaria who's deeply passionate about coding and languages. Every April 5th, I level up in age, so next year, I'll be 20! 🎉
 
-### About Me
+🌱 I'm constantly experimenting and learning, so please be patient with me as I navigate through the vast world of programming.
 
-I'm Shinni, a 19-year-old entry-level programmer from Bulgaria. Every April 5th, I level up by 1! 🎉 I'm deeply passionate about programming languages and enjoy experimenting with them. Learning new things is my jam, so please be kind and patient with me as I explore the world of coding. Oh, and I'm transgender, striving to be helpful wherever I can! 🌈✨
+🏳️‍⚧️ I'm transgender and strive to create a supportive and inclusive environment for everyone. Let's spread love and positivity! ❤️
 
 ### Skills
 
@@ -43,7 +43,7 @@ I'm Shinni, a 19-year-old entry-level programmer from Bulgaria. Every April 5th,
   </a>
 </p>
 
-### GitHub Stats
+### Badges
 
 <b>My GitHub Stats</b>
 
