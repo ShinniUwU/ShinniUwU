@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shinniuwu&label=Profile%20views&color=0e75b6&style=flat" alt="shinniuwu" /> </p>
 
 <p align="center"> <a href="https://twitter.com/shinnioffical" target="blank"><img src="https://img.shields.io/twitter/follow/shinnioffical?logo=twitter&style=for-the-badge" alt="shinnioffical" /></a> </p>
-- 🌱 I’m currently learning <strong>learning Web-Dev + many more</strong>
+ 🌱 I’m currently learning <strong>learning Web-Dev + many more</strong>
 
-- 📫 How to reach me <strong>Discord: shinni_</strong>
+ 📫 How to reach me <strong>Discord: shinni_</strong>
 
 
 <h3 align="center">Languages and Tools I know:</h3>
