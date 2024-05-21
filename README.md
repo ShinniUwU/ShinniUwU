@@ -48,6 +48,8 @@
 
 <h2 align="center">Let's Connect 🤝</h2>
 <p align="center">
+
+
   <a href="https://twitter.com/shinnioffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinni's twitter" height="30" width="40" /></a>
-  <a href="https://discord.com/users/shinni_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shinni's discord" height="30" width="40" /></a>
+  <a href="https://discord.com/users/310773553102585856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shinni's discord" height="30" width="40" /></a>
 </p>
