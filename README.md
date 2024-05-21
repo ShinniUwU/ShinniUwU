@@ -29,16 +29,16 @@
 <p align="center">
 <div align="center">
   <a href="https://github.com/ShinniUwU">
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=shinniuwu&show_icons=true&theme=dracula&border=61dafb&hide_border=true" alt="shinni's stats" />
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=shinniuwu&show_icons=true&count_private=true&hide=issues,contribs&theme=dracula&hide_border=true&bg_color=00000000" alt="shinni's stats" />
   </a>
   <a href="https://github.com/ShinniUwU">
-    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shinniuwu&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" alt="shinni's stats" />
+    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shinniuwu&show_icons=true&theme=dracula&background=FFFFFF00&count_private=true&hide_border=true" alt="shinni's stats" />
   </a>
 </div>
   <br><br><br><br><br><br><br><br><br>
  <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinniuwu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinniuwu&count_private=true&hide=c%23,tex,Mathematica&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
 <br>
