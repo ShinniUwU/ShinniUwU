@@ -3,7 +3,7 @@
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaCove+Nerd+Font&weight=700&size=30&pause=1000&color=FF6E96&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hana+(Shinni)+%F0%9F%8C%9F" alt="Typing SVG" /></a>
   </h1>
-  <h3 align="center">🩷 A 19-year-old coding enthusiast from Bulgaria, passionate about programming and languages.</h3>
+  <h3 align="center">🩷 A 20-year-old coding enthusiast from Bulgaria, passionate about programming and languages.</h3>
   <h3 align="center">🏳️‍⚧️ Pronouns: she/her. I'm transgender and committed to creating a supportive and inclusive environment for everyone.</h3>
   <h3 align="center">💻 I'm always learning, experimenting, and growing, so bear with me as I navigate the vast world of coding!</h3>
 </div>
