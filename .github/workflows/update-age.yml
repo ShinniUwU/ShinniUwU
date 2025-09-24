@@ -2,9 +2,12 @@ name: Update age on birthday
 
 on:
   schedule:
-    # yearly on April 5 at midnight Sofia time (UTC+3 → 21:00 UTC on April 4)
+    # Yearly on April 5 at midnight Sofia time (UTC+3 → 21:00 UTC on April 4)
     - cron: '0 21 4 4 *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   bump-age:
@@ -26,6 +29,6 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: chore: bump age to ${{ steps.calc.outputs.age }}
+          commit_message: "chore: bump age to ${{ steps.calc.outputs.age }}"
           branch: main
           file_pattern: README.md
