@@ -8,30 +8,39 @@
     I love building little tools that snowball into big projects. Always learning, always shipping.
   </p>
 
-  <!-- Badges -->
-
+  <!-- Badges (orange theme) -->
   <p>
-    <a href="https://github.com/ShinniUwU"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ShinniUwU?style=for-the-badge"></a>
-    <img alt="Location" src="https://img.shields.io/badge/Sofia%2C%20BG-%F0%9F%8C%8D-ff6e96?style=for-the-badge">
-    <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-she%2Fher-8a2be2?style=for-the-badge">
-    <img alt="Languages" src="https://img.shields.io/badge/EN%20%7C%20BG-bilingual-4c9aff?style=for-the-badge">
+    <a href="https://github.com/ShinniUwU">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ShinniUwU?style=for-the-badge&color=F07922&labelColor=000000">
+    </a>
+    <img alt="Location" src="https://img.shields.io/badge/Sofia,%20BG-%F0%9F%8C%8D-F07922?style=for-the-badge&labelColor=000000">
+    <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-she%2Fher-F07922?style=for-the-badge&labelColor=000000">
+    <img alt="Languages" src="https://img.shields.io/badge/EN%20%7C%20BG-bilingual-F07922?style=for-the-badge&labelColor=000000">
   </p>
 
   <!-- Typing headline -->
-
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaCove+Nerd+Font&weight=700&size=26&pause=1100&color=FF6E96&center=true&vCenter=true&width=650&lines=Full‑stack+tinkerer+%26+terminal+gremlin;Arch+Linux+enjoyer;React%2FNext.js+on+the+front%2C+Postgres+at+heart;Always+learning+%F0%9F%94%A5" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=CaskaydiaCove+Nerd+Font&weight=700&size=26&pause=1100&color=F07922&center=true&vCenter=true&width=800&lines=Linux-focused%20sysadmin;Automation%20%26%20backend%20infrastructure;Reliability%20over%20everything" alt="Typing SVG"/>
+    </a>
   </p>
 </div>
 
+
 ---
 
-## ⭐ About me
+## ⭐ About Me
 
-* 🛠️ Building modern apps with **React/Next.js**, **Fastify**, **Prisma**, and **PostgreSQL** (plus **Supabase** when it fits)
-* 🐧 Daily driver: **Linux** (terminal-first; dotfiles are my love language)
-* 🧠 Currently deep-diving into **backend design**, **APIs**, and **developer UX**
-* 🫶 Committed to inclusive spaces — everyone deserves to feel safe and seen
+I'm a Linux-focused sysadmin who enjoys building stable, reliable, and well-tuned systems.  
+Most of my work revolves around keeping services predictable, fast, and easy to maintain.
+
+### ⚡ What I Do
+- System configuration & hardening  
+- Monitoring, logs, and troubleshooting  
+- Automation & infra scripting  
+
+### 🎯 Current Focus
+Improving automation, refining my infrastructure setups, and expanding knowledge in modern Linux systems.
 
 ## 🚀 Tech Stack
 
@@ -66,17 +75,8 @@
 
 </div>
 
-## 📈 Stats
 
-<div align="center">
-  <img width="420" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shinniuwu&show_icons=true&count_private=true&hide=issues,contribs&theme=radical&hide_border=true&bg_color=00000000" />
 
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinniuwu&count_private=true&hide=c%23,tex,Mathematica&title_color=FF6E96&text_color=ffffff&icon_color=FF6E96&bg_color=00000000&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-  </a>
-</div>
 
 ## 🤝 Let's Connect
 
@@ -84,5 +84,3 @@
   <a href="https://twitter.com/shinnioffical" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
   <a href="https://discord.com/users/310773553102585856" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/></a>
 </p>
-
----
