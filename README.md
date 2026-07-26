@@ -4,7 +4,7 @@
   <h1>Hey, I'm Hana (Shinni) ✨</h1>
 
   <p>
-    <em><!--AGE-->22<!--/AGE--> y/o coding enthusiast born in Bulgaria living in the Netherlands — she/her 🏳️‍⚧️</em><br/>
+    <em><!--AGE-->21<!--/AGE--> y/o coding enthusiast born in Bulgaria living in the Netherlands — she/her 🏳️‍⚧️</em><br/>
     I love building little tools that snowball into big projects. Always learning, always shipping.
   </p>
 
@@ -62,7 +62,7 @@ Improving automation, refining my infrastructure setups, and expanding knowledge
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git</td>
     <td align="center"><img src="https://i.ibb.co/ZhrfJD0/bash.png" width="40" height="40" alt="Bash"/><br/>Bash</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="Photoshop"/><br/>Photoshop</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/><br/>Photoshop</td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="Chart.js"/><br/>Chart.js</td>

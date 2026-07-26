@@ -20,7 +20,7 @@ jobs:
         id: calc
         uses: frdmn/age-calculator-action@v1.1
         with:
-          date: '2004/04/05'  # ← your birth date
+          date: '2005/04/05'  # ← your birth date
 
       - name: Update README
         run: |
