@@ -4,7 +4,7 @@
   <h1>Hey, I'm Hana (Shinni) ✨</h1>
 
   <p>
-    <em>20 y/o coding enthusiast from Bulgaria — she/her 🏳️‍⚧️</em><br/>
+    <em>20 y/o coding enthusiast born in Bulgaria living in Netherlands — she/her 🏳️‍⚧️</em><br/>
     I love building little tools that snowball into big projects. Always learning, always shipping.
   </p>
 
