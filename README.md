@@ -4,7 +4,7 @@
   <h1>Hey, I'm Hana (Shinni) ✨</h1>
 
   <p>
-    <em>21 y/o coding enthusiast born in Bulgaria living in Netherlands — she/her 🏳️‍⚧️</em><br/>
+    <em><!--AGE-->22<!--/AGE--> y/o coding enthusiast born in Bulgaria living in the Netherlands — she/her 🏳️‍⚧️</em><br/>
     I love building little tools that snowball into big projects. Always learning, always shipping.
   </p>
 
@@ -16,6 +16,7 @@
     <img alt="Location" src="https://img.shields.io/badge/Sofia,%20BG-%F0%9F%8C%8D-F07922?style=for-the-badge&labelColor=000000">
     <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-she%2Fher-F07922?style=for-the-badge&labelColor=000000">
     <img alt="Languages" src="https://img.shields.io/badge/EN%20%7C%20BG-bilingual-F07922?style=for-the-badge&labelColor=000000">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShinniUwU&style=for-the-badge&color=F07922&labelColor=000000">
   </p>
 
   <!-- Typing headline -->
@@ -35,9 +36,9 @@ I'm a Linux-focused sysadmin who enjoys building stable, reliable, and well-tune
 Most of my work revolves around keeping services predictable, fast, and easy to maintain.
 
 ### ⚡ What I Do
-- System configuration & hardening  
-- Monitoring, logs, and troubleshooting  
-- Automation & infra scripting  
+- System configuration & hardening
+- Monitoring, logs, and troubleshooting
+- Automation & infra scripting
 
 ### 🎯 Current Focus
 Improving automation, refining my infrastructure setups, and expanding knowledge in modern Linux systems.
@@ -75,8 +76,30 @@ Improving automation, refining my infrastructure setups, and expanding knowledge
 
 </div>
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShinniUwU&show_icons=true&theme=transparent&hide_border=true&title_color=F07922&icon_color=F07922&text_color=ffffff&ring_color=F07922" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinniUwU&layout=compact&theme=transparent&hide_border=true&title_color=F07922&text_color=ffffff&langs_count=8" alt="Top languages"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShinniUwU&theme=transparent&hide_border=true&ring=F07922&fire=F07922&currStreakLabel=F07922&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShinniUwU&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShinniUwU/ShinniUwU/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShinniUwU/ShinniUwU/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ShinniUwU/ShinniUwU/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## 🤝 Let's Connect
 

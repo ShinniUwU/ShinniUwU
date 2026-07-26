@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/🩷 A [0-9]\{1,3\}-year/🩷 A ${{ steps.calc.outputs.age }}-year/" README.md
+          sed -i "s/<!--AGE-->[0-9]\{1,3\}<!--\/AGE-->/<!--AGE-->${{ steps.calc.outputs.age }}<!--\/AGE-->/" README.md
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
