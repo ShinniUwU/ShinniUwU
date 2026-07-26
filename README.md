@@ -79,8 +79,8 @@ Improving automation, refining my infrastructure setups, and expanding knowledge
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShinniUwU&show_icons=true&theme=transparent&hide_border=true&title_color=F07922&icon_color=F07922&text_color=ffffff&ring_color=F07922" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinniUwU&layout=compact&theme=transparent&hide_border=true&title_color=F07922&text_color=ffffff&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=ShinniUwU&show_icons=true&theme=transparent&hide_border=true&title_color=F07922&icon_color=F07922&text_color=ffffff&ring_color=F07922" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ShinniUwU&layout=compact&theme=transparent&hide_border=true&title_color=F07922&text_color=ffffff&langs_count=8" alt="Top languages"/>
 </div>
 
 <div align="center">
@@ -88,7 +88,7 @@ Improving automation, refining my infrastructure setups, and expanding knowledge
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShinniUwU&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=ShinniUwU&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
 </div>
 
 ## 🐍 Contribution Snake
