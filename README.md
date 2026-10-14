@@ -32,4 +32,4 @@ learning    modern Linux, in more depth
 
 ## ~/contact
 
-[twitter](https://twitter.com/shinnioffical) · [discord](https://discord.com/users/310773553102585856) · [dotfiles](https://github.com/ShinniUwU/dotfiles)
+[twitter](https://twitter.com/shinnioffical) · [discord](https://discord.com/users/310773553102585856) · [SOLEN](https://github.com/ShinniUwU/SOLEN)
